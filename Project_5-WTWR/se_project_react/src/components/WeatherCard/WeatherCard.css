@@ -1,0 +1,35 @@
+.weather-card {
+  margin: 28px 0 40px 0;
+
+  position: relative;
+}
+
+.weather-card__image {
+  width: 100%;
+  height: 80px;
+  border-radius: 10px;
+
+  background-color: #00a3ff;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.weather-card__temp {
+  margin: 0;
+  padding: 20px 16px;
+
+  width: 100%;
+  height: 40px;
+
+  position: absolute;
+  top: 2px;
+  left: 16px;
+
+  font-family: "Cabinet Grotesk", sans-serif;
+  font-style: normal;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px;
+  color: #ffffff;
+}
