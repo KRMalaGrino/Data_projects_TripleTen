@@ -21,10 +21,10 @@ We created this website using a reference from TripleTen's website to replicate 
 
 ## Pictures, GIFs, & screenshots
 
---------------
+https://drive.google.com/file/d/1fj8kKiAWvYZYCHklq5CKaxBOp6vfDZqF/view?usp=drive_link
 
 ## Deployment
 
 This webpage is deployed to GitHub Pages in the following link
 
---------------
+https://KRMalaGrino.github.io/se_project_coffeeshop/
